@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Jun 2025 11:24:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Belisario]]></title>
+            <guid>7684228edc3048ba941df7ff702e2dea</guid>
+            <pubDate>Tue, 11 Mar 2025 21:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="belisario">Belisario</h1>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Justiniano]]></title>
+            <guid>6cff05bb74bd45a4bc17c6dc37822fe1</guid>
+            <pubDate>Tue, 11 Mar 2025 19:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="justiniano">Justiniano</h1>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Procopio de Cesarea]]></title>
+            <guid>4dd7bc4e2af94df2b7b89278870232ec</guid>
+            <pubDate>Tue, 11 Mar 2025 18:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="procopio-de-cesarea">Procopio de Cesarea</h1>
+<p>Procopio de Cesarea fue un historiador bizantino del siglo VI. Sus escritos son una importante fuente sobre el reinado del emperador <a href="/article/justiniano">Justiniano</a>.  Nos ha dejado tres obras, <a>"Historia de las guerras"</a>, <a>"Historia secreta"</a> y "De los Edificios”, todas escritas en griego.</p>
+<p>No hay muchos datos ciertos sobre su vida, sobre la que la principal fuente es su propia obra. Se sabe que nació en <a>Cesarea de Palestina</a> alrededor del año 500. Para algunos estudiosos podría haber sido hijo de Esteban de Gaza, un importante funcionario de Cesarea de Palestina. Para otros, no hay suficiente soporte para esta hipótesis, aunque sí consideran probable un origen noble.</p>
+<p>Tampoco se sabe demasiado sobre sus estudios. Cabe suponer que recibió una educación esmerada en retórica griega, según se deduce de su estilo. También se presume que tuvo formación jurídica, porque fue consejero jurídico del <a href="/article/belisario">general Belisario</a>.</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
